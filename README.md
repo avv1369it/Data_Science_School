@@ -1,13 +1,8 @@
-# avv1369it_Data_Science
+# Data_Science_School
 
-SkillFactory Data-Science course my homework
+Я учусь в SkillFactory на курсе "Профессия Data Science" и в данном репозитории представлены мои работы в рамках прохождения данного курса / I am studying at SkillFactory in the course "Profession Data Science" and this repository presents my work in the course.
 
-## Домашнии задания
-
-* [Задание - 1. Игра Угадай число.](https://github.com/avv1369it/avv1369it_Data_Science/tree/main/Homework_1)
-* [Задание - 2. Python. Визуализация данных.](https://github.com/avv1369it/avv1369it_Data_Science/tree/main/Homework_2)
-
-## Проекты
+## Мои проекты / My projects:
 
 * [Проект - 1. Анализ резюме из HeadHunter](https://github.com/avv1369it/avv1369it_Data_Science/tree/main/Project_1);
 * [Проект - 2. Анализ вакансий из HeadHunter](https://github.com/avv1369it/avv1369it_Data_Science/tree/main/Project_2);
@@ -17,9 +12,13 @@ SkillFactory Data-Science course my homework
 * [Проект - 6. ML - Задача сегментации](https://github.com/avv1369it/avv1369it_Data_Science/tree/main/Project_6);
 * Проект - 7. Итоговый проект 1 года обучения.
 
+## Папка с домашними заданиями по модулям / Folder "My homework"
+
+* [Задание - 1. Игра Угадай число.](https://github.com/avv1369it/avv1369it_Data_Science/tree/main/Homework_1)
+* [Задание - 2. Python. Визуализация данных.](https://github.com/avv1369it/avv1369it_Data_Science/tree/main/Homework_2)
+
 ## Портфолио
 
-⬆️[к оглавлению](.README.md#Оглавление)
 
 Если информация по данным проектам покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль.
 ⭐️⭐️⭐️⭐️⭐️
