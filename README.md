@@ -8,7 +8,7 @@
 * [Project-2_Анализ вакансий HeadHunter.]();
 * [Project-3_EDA+Feature Engineering. Соревнование на Kaggle.]();
 * [Project-4_MachineLearning_Задача класификации.]();
-* [Project-5_MachineLearning_Задача регрессии.]();
+* [Project-5_MachineLearning_Задача регрессии.](https://github.com/avv1369it/Data_Science_School/tree/main/5.%20Project-5_MachineLearning_Задача%20регрессии.);
 * [Project-6_MachineLearning_Задача сегментации.](https://github.com/avv1369it/Data_Science_School/tree/main/6.%20Project-6_MachineLearning_Задача%20сегментации.);
 * [Project-7_First year project (Проект по окончанию первого года обучения.)](https://github.com/avv1369it/Data_Science_School/tree/main/7.%20Project-7_First%20year%20project%20(Проект%20по%20окончанию%20первого%20года%20обучения))
 
