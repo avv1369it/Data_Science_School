@@ -10,8 +10,8 @@
 * [Проект - 4. ML - Задача класификации](https://github.com/avv1369it/avv1369it_Data_Science/tree/main/Project_4);
 * [Проект - 5. ML - Задача регрессии](https://github.com/avv1369it/avv1369it_Data_Science/tree/main/Project_5);
 * [Проект - 6. ML - Задача сегментации](https://github.com/avv1369it/avv1369it_Data_Science/tree/main/Project_6);
-* [Проект - 7. Итоговый проект 1 года обучения](https://github.com/avv1369it/avv1369it_Data_Science/tree/main/Project_7);
-* [Проект - 8. Итоговый проект 2 года обучения](https://github.com/avv1369it/avv1369it_Data_Science/tree/main/Project_8).
+* [Проект - 7. Итоговый проект 1 года обучения](https://github.com/avv1369it/Data_Science_School/tree/main/7.%20Project-7_First%20year%20project%20(Проект%20по%20окончанию%20первого%20года%20обучения));
+* [Проект - 8. Итоговый проект 2 года обучения](https://github.com/avv1369it/Data_Science_School/tree/main/8.%20Project-8_Second%20year_project%20ML-Track%20(Проект%20по%20окончанию%20второго%20года%20обучения%20ML-трек)).
 
 
 ## Домашнии задания
